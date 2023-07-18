@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationTest
+
+  Created by 구본의 on 2023/07/19.
+  
+*/
+
+"Hello" = "안녕하세요";
+"TEST" = "서버에서 값이 내려오면";
